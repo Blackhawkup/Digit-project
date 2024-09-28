@@ -1,7 +1,0 @@
-ext/
-data/
-__pycache__
-*.bin
-.ipynb_checkpoints
-.DS_Store
-*.sav
