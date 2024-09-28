@@ -4,14 +4,14 @@
 
     A simple program that demonstrates recognizing handwritten digits from a webcam using 
     the mnist dataset. 
+
+    This project is made for internship work.
     
     Uses OpenCV 4.4.0 and TensorFlow 2.2.0.
 
     Authors:
 
-        Mahesh Venkitachalam
-        Aryan Mahesh 
-        electronut.in
+        Tushar Sangwan
 
 """
 
